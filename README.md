@@ -2,7 +2,7 @@
 
 <b> Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? </b>
 
-<i> The client Driverpass wanted to develop a system that would help improve the overall education and cultivation of drivers that went through their system. They had needed a system designed to help customers schedule classes and appointments with drivers as well as be able to take tests online. </i>
+The client Driverpass wanted to develop a system that would help improve the overall education and cultivation of drivers that went through their system. They had needed a system designed to help customers schedule classes and appointments with drivers as well as be able to take tests online.
 
 <b> What did you do particularly well? </b>
 
